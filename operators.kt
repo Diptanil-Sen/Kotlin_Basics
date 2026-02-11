@@ -1,4 +1,4 @@
-fun main() {
+fun main(){
     val isActive = true
     val score = 88
     val internetSpeed = 4000
