@@ -8,5 +8,4 @@ fun main(args:Array<String>){
     }
     text="Some text"
             println(text!!.length)
-
 }
