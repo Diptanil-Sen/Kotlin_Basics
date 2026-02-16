@@ -1,4 +1,4 @@
-fun main() {
+fun main(){
     var age=20
     var integerMaxValue=Int.MAX_VALUE
     var integerMinValue=Int.MIN_VALUE
