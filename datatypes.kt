@@ -21,3 +21,4 @@ fun main(){
     println("Long max value is:$longMaxValue")
     println("Long Min value is:$longMinValue")
 }
+
