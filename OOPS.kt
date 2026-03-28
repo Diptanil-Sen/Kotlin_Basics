@@ -65,6 +65,7 @@ class Car(name:String,color:String,model:String,doors:Int){
 }
 
 
+
 //<------------------------------------------------------>
 //its concise and easier to read with same output
 fun main(){
