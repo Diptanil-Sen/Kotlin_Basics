@@ -9,6 +9,7 @@ fun main(args:Array<String>){
         }
     }
 
+
 fun sayHello(name:String,age:Int,std:Int){
     var age=20
     println("Hello,$name Your age is $age you read in std $std")
