@@ -15,6 +15,7 @@ fun sayHello(name:String,age:Int,std:Int){
     println("Hello,$name Your age is $age you read in std $std")
 }
 
+
 fun getData(data:String){
     println("Your data is:$data")
 }
