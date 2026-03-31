@@ -201,7 +201,7 @@ private suspend fun getData2(threadName:String):String{
 
 
 //<-------------------------------------------------------------->
-timeout builders
+//timeout builders
 
 fun main(){
    println("Main program starts: ${Thread.currentThread().name}")
