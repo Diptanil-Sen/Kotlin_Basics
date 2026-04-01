@@ -155,7 +155,6 @@ private suspend fun getData2(threadName:String):String{
 }
 
 
-
 //<--------------------------------------------------------------->
 fun main(){
    println("Main program starts: ${Thread.currentThread().name}")
