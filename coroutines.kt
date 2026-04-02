@@ -58,8 +58,6 @@ fun main(){
    }
    Thread.sleep(2000)//it stops program for 2000milliseconds
    println("Main program ends: ${Thread.currentThread().name}")
-
-
 }
 
 
