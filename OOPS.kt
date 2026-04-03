@@ -817,8 +817,6 @@ open class SecondDelegate : B {
 }
 
 
-
-
 //<------------------------------------------------------------------->
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
