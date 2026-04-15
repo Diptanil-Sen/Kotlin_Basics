@@ -17,6 +17,7 @@ fun main(){
     var shortMinValue=Short.MIN_VALUE
     println("Short max value is:$shortMaxValue")
     println("Short Min value is:$shortMinValue")
+
     
 
     var longMaxValue=Long.MAX_VALUE
