@@ -243,7 +243,6 @@ fun main(){
        val job2 = launch {
                println(getData2(Thread.currentThread().name))
        }
-       
    }
    runBlocking {
        parentJob.join()
