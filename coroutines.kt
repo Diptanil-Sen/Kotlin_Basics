@@ -28,7 +28,6 @@ fun main(){//executed on main thread
 
 }
 
-
 //<-------------------------------------------------------------->
 //using coroutine did this
 
