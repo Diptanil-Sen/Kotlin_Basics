@@ -23,7 +23,6 @@ fun main(args:Array<String>) {
    }
 }
 
-
 //<-------------------------------------------------------->
 fun main(args:Array<String>) {
    val array = intArrayOf(2, 4, 5, 23, 78, 9)
@@ -50,7 +49,6 @@ fun findmin(numbers:IntArray): Int{
        }
    return min
 }
-
 
 //<------------------------------------------------------------>
 //findMax and findMin
