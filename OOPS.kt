@@ -9,7 +9,6 @@ var car1=Car()
    car1.doors=4
 
 
-   
    println("Name:${car1.name}")
    println("color:${car1.color}")
    println("model:${car1.model}")
