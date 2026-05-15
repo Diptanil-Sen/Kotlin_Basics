@@ -132,11 +132,11 @@ class User(){
 
 
 //<----------------------------------------------------------->
-//fun main(args: Array<String>) {
-//    val user =User("Neel","Sen",20)
-//    println(user)
-//}
-//data class User(val firstName:String,val lastName:String,val age:Int)
+fun main(args: Array<String>) {
+   val user =User("Neel","Sen",20)
+   println(user)
+}
+data class User(val firstName:String,val lastName:String,val age:Int)
 
 
 
