@@ -31,6 +31,7 @@ class BaseballPlayer(name: String):Player(name)
 //<------------------------------------------------------------------------>
 //same code of above but in easy way
 
+
 fun main(args:Array<String>) {
    val p1 = FootballPlayer("Messi")
    val p2 = FootballPlayer("Ronaldo")
