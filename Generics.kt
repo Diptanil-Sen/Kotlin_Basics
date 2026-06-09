@@ -12,7 +12,6 @@ fun main(args:Array<String>) {
 }
 
 
-
 class Team<T>(val name:String,val players: MutableList<T>){//<T> means This team can hold any one type of player. Example: Team<FootballPlayer> → football team ,Team<BaseballPlayer> → baseball team
    fun addPlayers(player : T){
        if(players.contains(player)){
