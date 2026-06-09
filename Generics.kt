@@ -65,6 +65,7 @@ class FootballPlayer(name: String) : Player(name)
 //<------------------------------------------------------------------------>
 
 
+
 fun main(args:Array<String>) {
    val mixedList=mutableListOf(1,2,360,'a','b','c',"hello","world")
    val specificList=getSpecificTypes<Int>(mixedList)
