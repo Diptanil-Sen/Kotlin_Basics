@@ -56,7 +56,6 @@ fun main(args:Array<String>) {
        println(number)
    }
 }
-
 //<--------------------------------------------------------------->
     //string representation
 fun main(args:Array<String>) {
