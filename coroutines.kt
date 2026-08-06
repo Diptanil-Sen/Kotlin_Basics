@@ -29,8 +29,6 @@ fun main(){//executed on main thread
 //<-------------------------------------------------------------->
 //using coroutine did this
 
-
-
 fun main(){
    println("Main program starts: ${Thread.currentThread().name}")
    CoroutineScope(Dispatchers.Default
